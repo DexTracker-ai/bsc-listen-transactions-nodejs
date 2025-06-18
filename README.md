@@ -11,7 +11,7 @@ npm install bsc-listen-transactions
 ## Usage
 
 ```javascript
-import DexTracker from 'base-listen-transactions';
+import DexTracker from 'bsc-listen-transactions';
 
 const tracker = new DexTracker();
 
