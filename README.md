@@ -1,17 +1,17 @@
-# DexTracker Client
+# bsc-listen-transactions
 
 A Node.js library for listening to real-time DEX transactions using the DexTracker API.
 
 ## Installation
 
 ```bash
-npm install ws
+npm install bsc-listen-transactions
 ```
 
 ## Usage
 
 ```javascript
-const DexTracker = require('./dex-tracker');
+import DexTracker from 'base-listen-transactions';
 
 const tracker = new DexTracker();
 
